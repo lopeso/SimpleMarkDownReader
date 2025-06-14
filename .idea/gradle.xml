@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer-code" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer-coil2" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer-coil3" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer-m2" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/multiplatform-markdown-renderer-m3" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/sample" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/sample/android" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/sample/desktop" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/sample/shared" />
+            <option value="$PROJECT_DIR$/multiplatform-markdown-renderer-develop/sample/web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
